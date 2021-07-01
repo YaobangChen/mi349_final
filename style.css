@@ -1,0 +1,26 @@
+body {
+    background-color: #04cff3;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+.Shortintro {
+    font-size: medium;
+    width: 1200px;
+    color: rgb(0, 0, 0);
+}
+
+.Nav {
+    
+}
+
+.webname {
+    color: rgb(131, 5, 235);
+}
+
+header {
+    color: rgb(131, 5, 235);
+}
+
+.articles {
+    line-height: -30%;
+}
